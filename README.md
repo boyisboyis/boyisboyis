@@ -2,12 +2,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=boyisboyis&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boyisboyis&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyisboyis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boyisboyis&show_icons=true&theme=gruvbox)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boyisboyis&show_icons=true&theme=gruvbox" />
+</a>
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 
 
